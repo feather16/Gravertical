@@ -5,7 +5,7 @@ Gravity+Verticalがゲーム名の由来です。
 
 矢印に触れると重力の方向が変わります。
 
-https://user-images.githubusercontent.com/105288087/185181794-2505a355-e688-41ac-bbf6-f228fc8a693b.mp4
+https://user-images.githubusercontent.com/105288087/192090455-1dec2ac9-a57d-4cb5-b681-32eb5e2ed1ba.mp4
 
 ## 遊ぶ
 ブラウザ上でプレイできます。
