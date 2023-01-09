@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/105288087/192090455-1dec2ac9-a57d-4cb5
 
 ## 遊ぶ
 ブラウザ上でプレイできます。
-[**こちらをクリック！**](https://feather16.github.io/Gravertical/)
+[**こちらをクリック！**](https://feather16.github.io/gravertical/)
 
 実行環境はパソコン推奨です。
 モバイル端末でも動作しますが、レイアウトが崩れる可能性があります。
